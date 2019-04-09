@@ -1,4 +1,4 @@
-using FF.Banking;
+﻿using FF.Banking;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
 
